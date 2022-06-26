@@ -13,7 +13,7 @@ export default function Home() {
           fontWeight: '$normal',
           fontSize: '$xl2',
           letterSpacing: '$wider'
-        }}>Welcome, I'm</Text>
+        }}>Welcome, I&apos;m</Text>
         <Text css={{
           // color: '$textGradientBlue',
           textGradient: "45deg, $blue600 -20%, $pink600 100%",
@@ -34,7 +34,7 @@ export default function Home() {
         <Text className='max-w-60' size="1.25rem" css={{
           color: '$text',
           letterSpacing: '$wide'
-        }}>I'm a Systems Engineering student and software developer based in Cartagena de Indias, Colombia. I specialize in frontend web development to build beautiful and functional web applications.</Text>
+        }}>I&apos;m a Systems Engineering student and software developer based in Cartagena de Indias, Colombia. I specialize in frontend web development to build beautiful and functional web applications.</Text>
         <Spacer y={2} />
         <Button size="lg" ghost css={{
           color: '$textHighBlue'
@@ -44,7 +44,7 @@ export default function Home() {
           <Text css={{
             color: '$text',
             fontSize: '$xl'
-          }}>Let's get in touch!</Text>
+          }}>Let&apos;s get in touch!</Text>
         </Button>
       </Container>
       <Spacer y={2} />
@@ -60,7 +60,7 @@ export default function Home() {
           fontSize: '$xl2',
           color: '$text',
           letterSpacing: '$wide',
-        }}>Hello everyone! 👋 My name is José Alejandro Puente Velásquez, I am a Systems Engineering student and frontend software developer based in Cartagena de Indias, Colombia 🇨🇴. I'm a tech enthusiast and a code lover 💘 who is always learning new technologies and skills 👨‍💻.</Text>
+        }}>Hello everyone! 👋 My name is José Alejandro Puente Velásquez, I am a Systems Engineering student and frontend software developer based in Cartagena de Indias, Colombia 🇨🇴. I&apos;m a tech enthusiast and a code lover 💘 who is always learning new technologies and skills 👨‍💻.</Text>
       </Container>
       <Spacer y={2} />
     </Container>
