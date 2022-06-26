@@ -14,3 +14,15 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.max-w-60 {
+  max-width: 60%;
+}
+
+.max-w-70 {
+  max-width: 70%;
+}
+
+.max-w-75 {
+  max-width: 75%;
+}
